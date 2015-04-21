@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar
+END
+lgpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/lgpl.html
+END
+sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/sample.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/edit.php
+END
+edit.db.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/edit.db.php
+END
+setup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/setup.sql
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/SII_Manager/!svn/ver/12/trunk/Public/wdCalendar/readme
+END
